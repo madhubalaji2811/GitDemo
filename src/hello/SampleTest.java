@@ -11,6 +11,9 @@ public void postJIRA() {
 		System.out.println("Post JIRA 1");
 		System.out.println("Post JIRA 2");
 		System.out.println("Post JIRA 3");
+		System.out.println("Post JIRA 4");
+		System.out.println("Post JIRA 5");
+		System.out.println("Post JIRA 6");
 }
 
 
@@ -21,4 +24,10 @@ public void deleteTwitter() {
 	System.out.println("this is the post to delete twitter");
 }
 
+
+ @Test
+ public void addinstagram() {
+	 
+	 System.out.println("This is the test to add instagram");
+ }
 }
