@@ -29,5 +29,8 @@ public void deleteTwitter() {
  public void addinstagram() {
 	 
 	 System.out.println("This is the test to add instagram");
+	 System.out.println("this is the test to add instagram login");
+	 System.out.println("this is the test to add instagram story");
  }
+ 
 }
