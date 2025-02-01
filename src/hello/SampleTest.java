@@ -33,4 +33,11 @@ public void deleteTwitter() {
 	 System.out.println("this is the test to add instagram story");
  }
  
+ 
+ @Test
+ public void snapchat() {
+	 
+	 System.out.println("this is new test added for the snapchat changes");
+ }
+ 
 }
